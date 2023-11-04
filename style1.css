@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+   
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.box{
+    width:90px;
+    height:90px;
+    border-radius: 10%;
+    border: 8px solid black;
+    margin: 25px;
+    
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+
+.purple{
+    background-color: rgb(255, 7, 222);
+}
+.yellow{
+    background-color: yellow;
+}
+.flash{
+    background-color: white;
+}
+.flash1{
+    background-color: green;
+}
